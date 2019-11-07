@@ -3,63 +3,38 @@ This repository keep my research materials about Named Entity Recognition using 
 
 # Table of Contents
 
-# Transfer Learning from general domain into Biomedical domain for Named Entity Recognition
+# Cross-lingual Transfer Learning
+## Named Entity Recognition
+* [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/pdf/1911.02116.pdf) (2019)
 
-## Tutorials and Blogs
+## Cross-lingual Transfer Learning in NLP
 
-## Papers
+# Cross-domain Transfer Learning (Domain Adaptation)
 
-### Surveys
-
-# Transfer Learning from general domain into Biomedical domain for other tasks in NLP
-
-## Tutorials and Blogs
-
-## Papers
-
-### Surveys
+## Cross-domain Transfer Learning from general domain into Biomedical domain for Named Entity Recognition
+* [NER Models Using Pre-training and Transfer Learning for Healthcare](https://arxiv.org/pdf/1910.11241.pdf)
 
 
-# Transfer Learning in NLP:
+## Cross-domain Transfer Learning from general domain into Biomedical domain for other tasks in NLP
 
-## Tutorials and Blogs
+## Domain Adaptation for Named Entity Recognition in other domains
 
-## Papers
 
-### Surveys
+## Cross-domain Transfer Learning in NLP:
 
-# PhD and Master Theses
+## Datasets
+* [Amazon review benchmark dataset](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/): sentiment analysis for four kinds (domains) of reviews: books, DVDs, electronics, kitchen
+* [ECML/PKDD Spam Filtering](http://www.ecmlpkdd2006.org/challenge.html#download): emails from 3 different inboxes, that can represent the 3 domains.
+* [20 Newsgroup](http://qwone.com/~jason/20Newsgroups/): collection of newsgroup documents across 6 top categories and 20 subcategories. Subcategories can play the role of the domains, as describe in [this article](https://arxiv.org/pdf/1707.01217.pdf).
 
-## Domain Adaptation
+# General Transfer Learning in NLP
 
-## Fine-tuning Approach
+* [Neural Transfer Learning for Natural Language Processing](https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf) (PhD Thesis)(2019)
+* [The State of Transfer Learning in NLP](https://ruder.io/state-of-transfer-learning-in-nlp/) (Blog) (2019)
 
-## Feature Extraction (embedding) approach
 
-## Multi-task Learning
 
-# 
-
-# Transfer Learning in other field
-
-## Tutorials and Blogs
-
-## Papers
-
-### Surveys
-
-# PhD and Master Theses
-
-## Domain Adaptation
-
-## Fine-tuning Approach
-
-## Feature Extraction (embedding) approach
-
-## Multi-task Learning
-
-## Policy transfer for RL
-
-## Few-shot transfer learning
-
-## Meta Transfer Learning
+# Everything about Transfer Learning
+* [Transfer Learning](https://github.com/jindongwang/transferlearning)
+* [Awesome Transfer Learning](https://github.com/artix41/awesome-transfer-learning)
+* [Awesome Transfer Learning](https://github.com/sun254/awesome-transfer-learning)
