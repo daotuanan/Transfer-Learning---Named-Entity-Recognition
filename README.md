@@ -39,8 +39,16 @@ This repository keep my research materials about Named Entity Recognition using 
 * [Neural Transfer Learning for Natural Language Processing](https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf) (PhD Thesis)(2019)
 * [The State of Transfer Learning in NLP](https://ruder.io/state-of-transfer-learning-in-nlp/) (Blog) (2019)
 
-# Named Entity Recognition
+# Named Entity Recognition in General Domain
 * [A Survey on Recent Advances in Named Entity Recognition from Deep Learning models](https://arxiv.org/pdf/1910.11470.pdf) (Survey) (2019)
+
+# Named Entity Recognition in Biomedical Domain:
+## Datasets:
+* [BC2GM]
+* [BioNLP09]
+* [NCBI-disease] 
+* [BioCreative V Chemical Disease Relation Extraction (BC5CDR)]
+* [JNLPBA]
 
 # Everything about Transfer Learning
 * [Transfer Learning](https://github.com/jindongwang/transferlearning)
