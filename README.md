@@ -44,11 +44,15 @@ This repository keep my research materials about Named Entity Recognition using 
 
 # Named Entity Recognition in Biomedical Domain:
 ## Datasets:
-* [BC2GM]
-* [BioNLP09]
-* [NCBI-disease] 
-* [BioCreative V Chemical Disease Relation Extraction (BC5CDR)]
-* [JNLPBA]
+* [BioNLP corpus](https://www.ncbi.nlm.nih.gov/research/bionlp/Data/)
+* [BC2GM](https://omictools.com/bc2gm-corpus-tool)
+"Provides a corpus of scientific texts, used for BioCreative, a competition in which participants are given well defined text-mining or information extraction tasks in the biological domain. BC2GM-corpus consists mainly of the training and testing corpora from BioCreative I and the testing corpus for the current task consists of an additional 5,000 sentences that were held 'in reserve'."
+* [BioNLP09](https://www.aclweb.org/anthology/W09-1401.pdf)
+* [NCBI-disease](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/)
+* [BioCreative V Chemical Disease Relation Extraction (BC5CDR)](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/)
+"Description
+BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions."
+* [JNLPBA](http://www.nactem.ac.uk/tsujii/GENIA/ERtask/report.html)
 
 # Everything about Transfer Learning
 * [Transfer Learning](https://github.com/jindongwang/transferlearning)
