@@ -37,8 +37,9 @@ This repository keep my research materials about Named Entity Recognition using 
 |2019| [The State of Transfer Learning in NLP](https://ruder.io/state-of-transfer-learning-in-nlp/) (Blog) ||||
 
 # Named Entity Recognition in General Domain
-* [A Survey on Recent Advances in Named Entity Recognition from Deep Learning models](https://arxiv.org/pdf/1910.11470.pdf) (Survey) (2019)
-
+|Date| Title | Summary | Pass 1 | Pass 2 |
+|----|----|----|----|----|
+|2019| [A Survey on Recent Advances in Named Entity Recognition from Deep Learning models](https://arxiv.org/pdf/1910.11470.pdf) (Survey) ||||
 
 # Datasets
 ## Transfer learning in NLP:
