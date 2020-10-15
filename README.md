@@ -6,18 +6,18 @@ This repository keep my research materials about Named Entity Recognition using 
 # Cross-lingual Transfer Learning
 ## Cross-lingual Transfer Learning for Named Entity Recognition
 |Date|Title| Summary | Pass 0 | Pass 1 | Pass 2 |
-|----|----|----|----|----|
+|----|----|----|----|----|----|
 |2019 | [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/pdf/1911.02116.pdf) ||||
 
 ## Cross-lingual Transfer Learning in NLP
 |Date| Title | Summary | Pass 0 | Pass 1 | Pass 2 |
-|----|----|----|----|----|
+|----|----|----|----|----|----|
 
 # Cross-domain Transfer Learning (Domain Adaptation)
 
 ## Cross-domain Transfer Learning for Named Entity Recognition
 |Date| Title | Summary | Pass 0 | Pass 1 | Pass 2 |
-|----|----|----|----|----|
+|----|----|----|----|----|----|
 |2020| [Zero-Resource Cross-Domain Named Entity Recognition](https://arxiv.org/pdf/2002.05923.pdf)|||||
 |2020| [Multi-Cell Compositional LSTM for NER Domain Adaptation](https://www.aclweb.org/anthology/2020.acl-main.524.pdf)|||||
 |2017| [TRANSFER LEARNING FOR SEQUENCE TAGGING WITH HIERARCHICAL RECURRENT NETWORKS](https://openreview.net/pdf?id=ByxpMd9lx)||||
@@ -42,13 +42,13 @@ This repository keep my research materials about Named Entity Recognition using 
 
 # General Transfer Learning in NLP
 |Date| Title | Summary | Pass 0 | Pass 1 | Pass 2 |
-|----|----|----|----|----|
+|----|----|----|----|----|----|
 |2019| [Neural Transfer Learning for Natural Language Processing](https://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf)(PhD Thesis) |||||
 |2019| [The State of Transfer Learning in NLP](https://ruder.io/state-of-transfer-learning-in-nlp/) (Blog) |||||
 
 # Named Entity Recognition in General Domain
 |Date| Title | Summary | Pass 0 | Pass 1 | Pass 2 |
-|----|----|----|----|----|
+|----|----|----|----|----|----|
 |2019| [A Survey on Recent Advances in Named Entity Recognition from Deep Learning models](https://arxiv.org/pdf/1910.11470.pdf) (Survey) |||||
 
 # Datasets
