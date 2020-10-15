@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-## Template:
+### Template:
 ### Name:
 #### Authors:
 #### Date:
