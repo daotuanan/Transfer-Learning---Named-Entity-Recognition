@@ -18,6 +18,16 @@ This repository keep my research materials about Named Entity Recognition using 
 ## Cross-domain Transfer Learning for Named Entity Recognition
 |Date| Title | Summary | Pass 1 | Pass 2 |
 |----|----|----|----|----|
+|2020| [Zero-Resource Cross-Domain Named Entity Recognition](https://arxiv.org/pdf/2002.05923.pdf)||||
+|2020| [Multi-Cell Compositional LSTM for NER Domain Adaptation](https://www.aclweb.org/anthology/2020.acl-main.524.pdf)||||
+|2017| [TRANSFER LEARNING FOR SEQUENCE TAGGING WITH HIERARCHICAL RECURRENT NETWORKS](https://openreview.net/pdf?id=ByxpMd9lx)||||
+|2019| [Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition](https://www.aclweb.org/anthology/P19-1336.pdf)||||
+|2018| [Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition](https://www.aclweb.org/anthology/N18-1001.pdf)||||
+|2019| [Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation](https://www.aclweb.org/anthology/D19-1429.pdf)||||
+|2018| [Design Challenges and Misconceptions in Neural Sequence Labeling](https://www.aclweb.org/anthology/C18-1327.pdf)||||
+|2018| [Transfer Learning for Entity Recognition of Novel Classes](https://www.aclweb.org/anthology/C18-1168.pdf)||||
+|2018| [Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism](https://www.aclweb.org/anthology/D18-1017.pdf)||||
+|2018| [Neural Adaptation Layers for Cross-domain Named Entity Recognition](https://www.aclweb.org/anthology/D18-1226.pdf)||||
 |2019| [NER Models Using Pre-training and Transfer Learning for Healthcare](https://arxiv.org/pdf/1910.11241.pdf) ||||
 |2019| [Transfer learning for biomedical named entity recognition with neural networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247938/pdf/bty449.pdf) ||||
 |2019| [Transfer Learning for Named-Entity Recognition with Neural Networks](https://arxiv.org/pdf/1705.06273.pdf) ||||
